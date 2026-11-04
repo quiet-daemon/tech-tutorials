@@ -2,7 +2,7 @@
 
 A from-scratch, continuously-current technical tutorial library — built to match the depth of the best-known tutorial sites, but without the years-stale content most of them carry.
 
-**📖 Read it online:** https://itskrsna.github.io/tech-tutorials/
+**📖 Read it online:** https://quiet-daemon.github.io/tech-tutorials/
 
 ---
 
@@ -62,7 +62,7 @@ Full lesson-by-lesson index: [`dotnet-csharp/README.md`](dotnet-csharp/README.md
 ## Running It Locally
 
 ```bash
-git clone https://github.com/itskrsna/tech-tutorials.git
+git clone https://github.com/quiet-daemon/tech-tutorials.git
 cd tech-tutorials
 
 python -m venv .venv
@@ -85,7 +85,7 @@ The site is built with [MkDocs Material](https://squidfunk.github.io/mkdocs-mate
 
 ## Found an Issue?
 
-If a lesson has an error, a stale claim, or a broken link, please [open an issue](https://github.com/itskrsna/tech-tutorials/issues).
+If a lesson has an error, a stale claim, or a broken link, please [open an issue](https://github.com/quiet-daemon/tech-tutorials/issues).
 
 ## Support This Project
 
